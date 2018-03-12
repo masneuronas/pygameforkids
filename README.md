@@ -2,7 +2,7 @@
 
 # Pygame for Kids
 
-#### **Pygame for Kids integra una serie de proyectos que te permitirán desarrollar tu primer videojuego.**
+#### **Pygame for Kids integra una serie de proyectos que te permitirán programar tu primer videojuego.**
 
 
 
